@@ -1,0 +1,15 @@
+/home/isabella/Cronômetro/bin/Debug/net6.0/Cronômetro
+/home/isabella/Cronômetro/bin/Debug/net6.0/Cronômetro.deps.json
+/home/isabella/Cronômetro/bin/Debug/net6.0/Cronômetro.runtimeconfig.json
+/home/isabella/Cronômetro/bin/Debug/net6.0/Cronômetro.dll
+/home/isabella/Cronômetro/bin/Debug/net6.0/ref/Cronômetro.dll
+/home/isabella/Cronômetro/bin/Debug/net6.0/Cronômetro.pdb
+/home/isabella/Cronômetro/obj/Debug/net6.0/Cronômetro.csproj.AssemblyReference.cache
+/home/isabella/Cronômetro/obj/Debug/net6.0/Cronômetro.GeneratedMSBuildEditorConfig.editorconfig
+/home/isabella/Cronômetro/obj/Debug/net6.0/Cronômetro.AssemblyInfoInputs.cache
+/home/isabella/Cronômetro/obj/Debug/net6.0/Cronômetro.AssemblyInfo.cs
+/home/isabella/Cronômetro/obj/Debug/net6.0/Cronômetro.csproj.CoreCompileInputs.cache
+/home/isabella/Cronômetro/obj/Debug/net6.0/Cronômetro.dll
+/home/isabella/Cronômetro/obj/Debug/net6.0/ref/Cronômetro.dll
+/home/isabella/Cronômetro/obj/Debug/net6.0/Cronômetro.pdb
+/home/isabella/Cronômetro/obj/Debug/net6.0/Cronômetro.genruntimeconfig.cache
